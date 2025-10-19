@@ -1,0 +1,1 @@
+import{_ as a,c as o,ag as t,o as d}from"./chunks/framework.kMCHP7uL.js";const m=JSON.parse('{"title":"注意","description":"","frontmatter":{},"headers":[],"relativePath":"code/Readme.md","filePath":"code/Readme.md"}'),c={name:"code/Readme.md"};function r(i,e,s,_,p,n){return d(),o("div",null,e[0]||(e[0]=[t("",6)]))}const g=a(c,[["render",r]]);export{m as __pageData,g as default};
